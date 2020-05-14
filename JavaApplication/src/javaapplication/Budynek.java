@@ -12,6 +12,7 @@ package javaapplication;
 public class Budynek implements Powierzchnia {
     int wymiar ;
     int pietra_;
+    double powierzchniaDzialki;
     
     Pietro[] pietra;  
     Garaz[] garaze; 
